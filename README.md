@@ -130,7 +130,8 @@ game.play(1000)
 
         Returns: permutation, pandas DataFrame with a MultiIndex of distinct permutations and a column for the associated counts.
         """
-
+# License 
+MIT 
         
         
 
